@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easys\\source\\repos\\Project9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96121E0-1DA1-4634-9B88-A8EE2991DD81}|Project9\\Project9.vcxproj|C:\\Users\\easys\\source\\repos\\Project9\\Project9\\5-maxheaptree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E96121E0-1DA1-4634-9B88-A8EE2991DD81}|Project9\\Project9.vcxproj|solutionrelative:Project9\\5-maxheaptree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-maxheaptree.c",
+              "DocumentMoniker": "C:\\Users\\easys\\source\\repos\\Project9\\Project9\\5-maxheaptree.c",
+              "RelativeDocumentMoniker": "Project9\\5-maxheaptree.c",
+              "ToolTip": "C:\\Users\\easys\\source\\repos\\Project9\\Project9\\5-maxheaptree.c",
+              "RelativeToolTip": "Project9\\5-maxheaptree.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T13:53:50.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
