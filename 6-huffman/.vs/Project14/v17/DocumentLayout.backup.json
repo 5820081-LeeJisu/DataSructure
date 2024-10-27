@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easys\\source\\repos\\Project14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53DA2D3-A9F6-46F8-964E-AF69B9A5BC6E}|Project14\\Project14.vcxproj|C:\\Users\\easys\\source\\repos\\Project14\\Project14\\6-huffman.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E53DA2D3-A9F6-46F8-964E-AF69B9A5BC6E}|Project14\\Project14.vcxproj|solutionrelative:Project14\\6-huffman.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-huffman.c",
+              "DocumentMoniker": "C:\\Users\\easys\\source\\repos\\Project14\\Project14\\6-huffman.c",
+              "RelativeDocumentMoniker": "Project14\\6-huffman.c",
+              "ToolTip": "C:\\Users\\easys\\source\\repos\\Project14\\Project14\\6-huffman.c",
+              "RelativeToolTip": "Project14\\6-huffman.c",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T12:43:24.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
