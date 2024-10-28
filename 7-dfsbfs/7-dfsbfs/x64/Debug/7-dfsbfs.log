@@ -1,0 +1,5 @@
+﻿  7-dfsbfs.c
+C:\Users\easys\source\repos\7-dfsbfs\7-dfsbfs\7-dfsbfs.c(164,16): warning C4312: '형식 캐스트': 'int'에서 더 큰 'element'(으)로의 변환입니다.
+C:\Users\easys\source\repos\7-dfsbfs\7-dfsbfs\7-dfsbfs.c(168,17): warning C4311: '형식 캐스트': 'element'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\easys\source\repos\7-dfsbfs\7-dfsbfs\7-dfsbfs.c(179,28): warning C4312: '형식 캐스트': 'int'에서 더 큰 'element'(으)로의 변환입니다.
+  7-dfsbfs.vcxproj -> C:\Users\easys\source\repos\7-dfsbfs\x64\Debug\7-dfsbfs.exe

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easys\\source\\repos\\7-dfsbfs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED075565-2E74-47FA-BBB5-4F766A6AA373}|7-dfsbfs\\7-dfsbfs.vcxproj|C:\\Users\\easys\\source\\repos\\7-dfsbfs\\7-dfsbfs\\7-dfsbfs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED075565-2E74-47FA-BBB5-4F766A6AA373}|7-dfsbfs\\7-dfsbfs.vcxproj|solutionrelative:7-dfsbfs\\7-dfsbfs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7-dfsbfs.c",
+              "DocumentMoniker": "C:\\Users\\easys\\source\\repos\\7-dfsbfs\\7-dfsbfs\\7-dfsbfs.c",
+              "RelativeDocumentMoniker": "7-dfsbfs\\7-dfsbfs.c",
+              "ToolTip": "C:\\Users\\easys\\source\\repos\\7-dfsbfs\\7-dfsbfs\\7-dfsbfs.c",
+              "RelativeToolTip": "7-dfsbfs\\7-dfsbfs.c",
+              "ViewState": "AgIAANUAAAAAAAAAAAAuwOAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T07:13:48.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "01045df7-93c6-4c1e-8739-2d7822b047e4",
+        "Display": 0,
+        "X": 485,
+        "Y": 343,
+        "Width": 595,
+        "Height": 546,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9-primmst.c",
+              "DocumentMoniker": "C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst.c",
+              "RelativeDocumentMoniker": "..\\9-primmst\\9-primmst.c",
+              "ToolTip": "C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst.c",
+              "RelativeToolTip": "..\\9-primmst\\9-primmst.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-28T08:44:07.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
