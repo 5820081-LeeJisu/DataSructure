@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easys\\source\\repos\\9-primmst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844F2DAC-6836-4686-B363-947D8859EEAC}|9-primmst\\9-primmst.vcxproj|C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst\\9-primmst.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{844F2DAC-6836-4686-B363-947D8859EEAC}|9-primmst\\9-primmst.vcxproj|solutionrelative:9-primmst\\9-primmst.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9-primmst.c",
+              "DocumentMoniker": "C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst\\9-primmst.c",
+              "RelativeDocumentMoniker": "9-primmst\\9-primmst.c",
+              "ToolTip": "C:\\Users\\easys\\source\\repos\\9-primmst\\9-primmst\\9-primmst.c*",
+              "RelativeToolTip": "9-primmst\\9-primmst.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-28T08:47:54.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
