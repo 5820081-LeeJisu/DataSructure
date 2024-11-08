@@ -1,0 +1,3 @@
+﻿  10-dijkstra.c
+C:\Users\easys\source\repos\10-dijkstra\10-dijkstra\10-dijkstra.c(64,10): warning C4133: '초기화 중': 'GraphType *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+  10-dijkstra.vcxproj -> C:\Users\easys\source\repos\10-dijkstra\x64\Debug\10-dijkstra.exe
